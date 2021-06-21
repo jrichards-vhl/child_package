@@ -1,4 +1,4 @@
 export function sayHello() {
-  cosole.log('hello from child package!');
+  console.log('hello from child package! v1.0.5');
 }
 
